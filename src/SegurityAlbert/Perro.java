@@ -10,6 +10,9 @@ package SegurityAlbert;
  */
 public class Perro {
 
+    
+    private String nombre;
+    private String apellido;
         public static void main(String[] args) {
             
 
