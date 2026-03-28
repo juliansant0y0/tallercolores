@@ -15,6 +15,10 @@ public class Taller {
      */
    /* public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
     } */
+=======
+    }*/
+>>>>>>> 4b4efb67483f41dcb7353bf50c9d1c91cc1ca181
     
 }
